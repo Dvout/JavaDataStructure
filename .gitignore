@@ -1,0 +1,27 @@
+/app/node_modules
+/.vscode
+# IntelliJ
+*.ipr
+*.iml
+*.iws
+.idea/
+build/libs
+build/tmp
+.gradle
+#
+# Eclipse metadata.
+#
+.project
+.classpath
+.settings/
+
+#
+# Eclipse and Maven idea output folders.
+#
+bin/
+target/
+out/
+*.class
+/target/
+
+.idea/workspace.xml
